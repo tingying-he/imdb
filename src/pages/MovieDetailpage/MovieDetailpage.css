@@ -1,0 +1,21 @@
+.checked {
+    color: orange;
+  }
+
+
+  .fa-star{
+    margin-left: 4px;
+  }
+
+  .btn{
+    margin: 4px 4px;
+    border-radius: 0px;
+  }
+
+  .tag{
+      margin-left: 10px;
+      font-size: 10px;
+      background-color: lightslategray;
+      padding: 4px;
+      line-height: 0px;
+  }
